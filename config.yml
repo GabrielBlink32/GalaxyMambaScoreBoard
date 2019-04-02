@@ -1,0 +1,10 @@
+Licenca: '00000-00000-00000'
+DEFAULT_WORLD_NAME: 'world'
+ScoreBoard_URL: '&eredegalaxy.com'
+EXTRA_WORLDS:
+ mina:
+  Name_Fancy: '&7Mundo de Mineração'
+ VIP:
+  Name_Fancy: '&6Mundo VIP'
+ Arena:
+  Name_Fancy: '&cARENA PVP'
